@@ -46,3 +46,10 @@ metadata:
   name: test7
   labels:
     name: test7
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: test8
+  labels:
+    name: test8
